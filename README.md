@@ -84,6 +84,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -92,14 +93,17 @@ I regularly solve problems on:
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
