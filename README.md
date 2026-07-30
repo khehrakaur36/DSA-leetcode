@@ -29,6 +29,7 @@ I regularly solve problems on:
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -106,4 +107,13 @@ I regularly solve problems on:
 | ------- |
 | [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
