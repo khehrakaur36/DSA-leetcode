@@ -31,6 +31,7 @@ I regularly solve problems on:
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -130,4 +131,12 @@ I regularly solve problems on:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
