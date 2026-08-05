@@ -28,6 +28,7 @@ I regularly solve problems on:
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +140,12 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
