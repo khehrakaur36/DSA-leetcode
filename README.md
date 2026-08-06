@@ -111,6 +111,7 @@ I regularly solve problems on:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -153,12 +154,15 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
