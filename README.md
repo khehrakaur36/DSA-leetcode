@@ -68,6 +68,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
@@ -77,6 +78,7 @@ I regularly solve problems on:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 ## Greedy
@@ -151,6 +153,7 @@ I regularly solve problems on:
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 ## Tree
