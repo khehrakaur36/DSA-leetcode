@@ -165,6 +165,7 @@ I regularly solve problems on:
 | [0102-binary-tree-level-order-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ I regularly solve problems on:
 | [0100-same-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ I regularly solve problems on:
 | [0102-binary-tree-level-order-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,4 +191,5 @@ I regularly solve problems on:
 | [0101-symmetric-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
