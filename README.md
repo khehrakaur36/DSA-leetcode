@@ -23,6 +23,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0039-combination-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
@@ -84,6 +85,7 @@ I regularly solve problems on:
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
@@ -127,6 +129,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
