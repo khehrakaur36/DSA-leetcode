@@ -179,6 +179,7 @@ I regularly solve problems on:
 | [0543-diameter-of-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ I regularly solve problems on:
 | [0543-diameter-of-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ I regularly solve problems on:
 | [0112-path-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
