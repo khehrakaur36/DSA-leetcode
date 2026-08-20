@@ -26,6 +26,7 @@ I regularly solve problems on:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
@@ -269,8 +270,14 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
