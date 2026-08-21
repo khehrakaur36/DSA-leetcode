@@ -29,6 +29,7 @@ I regularly solve problems on:
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
+| [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -38,6 +39,7 @@ I regularly solve problems on:
 | ------- |
 | [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ I regularly solve problems on:
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
+| [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
@@ -276,8 +279,13 @@ I regularly solve problems on:
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
