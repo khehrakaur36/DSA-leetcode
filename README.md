@@ -25,6 +25,7 @@ I regularly solve problems on:
 | [0039-combination-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
@@ -206,6 +207,7 @@ I regularly solve problems on:
 | [0112-path-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -244,6 +246,7 @@ I regularly solve problems on:
 | [0104-maximum-depth-of-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -284,9 +287,14 @@ I regularly solve problems on:
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
