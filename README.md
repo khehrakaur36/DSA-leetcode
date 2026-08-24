@@ -34,6 +34,7 @@ I regularly solve problems on:
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 ## Math
 |  |
@@ -250,6 +251,7 @@ I regularly solve problems on:
 | [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -289,6 +291,7 @@ I regularly solve problems on:
 | ------- |
 | [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 ## Pigeonhole Principle
 |  |
 | ------- |
