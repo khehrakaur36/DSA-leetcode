@@ -34,6 +34,7 @@ I regularly solve problems on:
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
@@ -218,6 +219,7 @@ I regularly solve problems on:
 | [0543-diameter-of-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -257,6 +259,7 @@ I regularly solve problems on:
 | [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
@@ -301,6 +304,7 @@ I regularly solve problems on:
 | [0130-surrounded-regions](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 ## Pigeonhole Principle
 |  |
@@ -312,6 +316,7 @@ I regularly solve problems on:
 | [0130-surrounded-regions](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
