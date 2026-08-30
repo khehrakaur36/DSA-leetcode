@@ -38,6 +38,7 @@ I regularly solve problems on:
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 ## Math
 |  |
@@ -263,6 +264,7 @@ I regularly solve problems on:
 | [0785-is-graph-bipartite](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -306,6 +308,7 @@ I regularly solve problems on:
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Pigeonhole Principle
 |  |
 | ------- |
