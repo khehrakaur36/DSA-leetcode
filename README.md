@@ -43,6 +43,7 @@ I regularly solve problems on:
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +309,7 @@ I regularly solve problems on:
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
