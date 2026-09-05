@@ -44,6 +44,7 @@ I regularly solve problems on:
 | [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +311,7 @@ I regularly solve problems on:
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
