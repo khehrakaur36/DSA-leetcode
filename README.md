@@ -38,6 +38,7 @@ I regularly solve problems on:
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0697-degree-of-an-array) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
@@ -95,6 +96,7 @@ I regularly solve problems on:
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 ## String
 |  |
