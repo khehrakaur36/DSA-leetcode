@@ -34,6 +34,7 @@ I regularly solve problems on:
 | [0435-non-overlapping-intervals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
+| [0495-teemo-attacking](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0495-teemo-attacking) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
@@ -349,4 +350,8 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0785-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
