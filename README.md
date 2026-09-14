@@ -29,6 +29,7 @@ I regularly solve problems on:
 | [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -52,6 +53,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -70,6 +72,7 @@ I regularly solve problems on:
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
@@ -94,6 +97,7 @@ I regularly solve problems on:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -177,6 +181,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0278-first-bad-version) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Newton's Method
@@ -186,6 +191,7 @@ I regularly solve problems on:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
 |  |
