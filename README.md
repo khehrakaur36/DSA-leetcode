@@ -23,6 +23,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0041-first-missing-positive) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0130-surrounded-regions) |
@@ -98,6 +99,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
