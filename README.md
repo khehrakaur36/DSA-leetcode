@@ -75,6 +75,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
@@ -102,6 +103,7 @@ I regularly solve problems on:
 | [0041-first-missing-positive](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -116,6 +118,7 @@ I regularly solve problems on:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
+| [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 ## Greedy
@@ -197,6 +200,7 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
