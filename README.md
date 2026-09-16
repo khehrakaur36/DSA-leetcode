@@ -54,6 +54,7 @@ I regularly solve problems on:
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
@@ -117,6 +118,7 @@ I regularly solve problems on:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -199,6 +201,7 @@ I regularly solve problems on:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0645-set-mismatch) |
@@ -372,6 +375,7 @@ I regularly solve problems on:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0495-teemo-attacking) |
 ## Interactive
 |  |
