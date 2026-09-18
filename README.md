@@ -85,6 +85,7 @@ I regularly solve problems on:
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +114,7 @@ I regularly solve problems on:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ I regularly solve problems on:
 | [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +136,7 @@ I regularly solve problems on:
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Counting
 |  |
 | ------- |
