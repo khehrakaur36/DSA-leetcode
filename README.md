@@ -48,6 +48,7 @@ I regularly solve problems on:
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -115,6 +116,7 @@ I regularly solve problems on:
 | [0697-degree-of-an-array](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@ I regularly solve problems on:
 | ------- |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
 | ------- |
