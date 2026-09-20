@@ -128,6 +128,7 @@ I regularly solve problems on:
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -384,6 +385,7 @@ I regularly solve problems on:
 | ------- |
 | [0067-add-binary](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0495-teemo-attacking) |
+| [3498-reverse-degree-of-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
 | ------- |
