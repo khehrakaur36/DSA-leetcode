@@ -49,6 +49,7 @@ I regularly solve problems on:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -117,6 +118,7 @@ I regularly solve problems on:
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@ I regularly solve problems on:
 | [0457-circular-array-loop](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0457-circular-array-loop) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -390,4 +393,8 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
