@@ -51,6 +51,7 @@ I regularly solve problems on:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3903-smallest-stable-index-i](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -119,6 +120,7 @@ I regularly solve problems on:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -167,6 +169,7 @@ I regularly solve problems on:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
