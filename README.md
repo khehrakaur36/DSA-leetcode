@@ -48,6 +48,7 @@ I regularly solve problems on:
 | [0994-rotting-oranges](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1711-count-good-meals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1711-count-good-meals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2401-longest-nice-subarray](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2401-longest-nice-subarray) |
@@ -118,6 +119,7 @@ I regularly solve problems on:
 | [0697-degree-of-an-array](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1711-count-good-meals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1711-count-good-meals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
