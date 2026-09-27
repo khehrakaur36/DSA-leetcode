@@ -135,6 +135,7 @@ I regularly solve problems on:
 | [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -182,6 +183,7 @@ I regularly solve problems on:
 | [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -405,4 +407,8 @@ I regularly solve problems on:
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/khehrakaur36/DSA-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
