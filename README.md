@@ -136,6 +136,7 @@ I regularly solve problems on:
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -150,6 +151,7 @@ I regularly solve problems on:
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -187,6 +189,7 @@ I regularly solve problems on:
 | [0143-reorder-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
@@ -203,6 +206,7 @@ I regularly solve problems on:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0435-non-overlapping-intervals](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -418,6 +422,7 @@ I regularly solve problems on:
 | ------- |
 | [0020-valid-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
