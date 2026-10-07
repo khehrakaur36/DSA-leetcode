@@ -134,6 +134,7 @@ I regularly solve problems on:
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -220,6 +221,7 @@ I regularly solve problems on:
 | [0022-generate-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +329,7 @@ I regularly solve problems on:
 | [0130-surrounded-regions](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/khehrakaur36/DSA-leetcode/tree/master/0695-max-area-of-island) |
